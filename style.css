@@ -1,0 +1,10 @@
+.stars {
+    display: inline-block;
+    height: 15px;
+    background: url('./assets/images/star.png') repeat-x;
+    background-size: 15px;
+}
+
+.stars-5 { width: 75px; }
+.stars-4 { width: 60px; }
+.stars-3 { width: 45px; }
